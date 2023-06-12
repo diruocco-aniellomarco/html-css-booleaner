@@ -7,3 +7,32 @@
 #logo {
     height: 100px;
 }
+
+h1 {
+    font-size: 80px;
+    margin-bottom: 0px;
+}
+.creatore {
+    color: #11a3e3;
+}
+
+nav {
+    color: #777777;
+    font-size: 40px;
+}
+
+#data {
+    font-size: 30px;
+}
+
+.fototesta {
+    height: 650px;
+}
+
+.evidenzia {
+    background-color: yellow;
+}
+
+.sezioni {
+    margin-bottom: 20px;
+}
