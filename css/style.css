@@ -32,7 +32,7 @@ nav {
 /* sezione main*/
 
 
-.sezioni {
+.contenitore {
     margin-bottom: 20px;
 }
 /*sezione immagini di testa*/
@@ -59,4 +59,27 @@ th {
 
 .tabrigacolorata {
     background-color: #b1e5f2;
+}
+
+/*footer*/
+footer {
+    font-weight: bold;
+}
+#titolofooter {
+    color: #797979;
+}
+.imgfooter {
+    height: 150px;
+    width: 200px;
+    background-size: contain;
+    color: white;
+}
+
+#monitor {
+    background-image: url('../img/monitor.jpg');
+    margin-bottom: 10px;
+}
+
+#graph {
+    background-image: url('../img/graph.jpg');
 }
