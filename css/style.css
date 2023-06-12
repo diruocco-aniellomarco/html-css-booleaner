@@ -1,3 +1,5 @@
+/*sezione Header*/
+
 .heading {
     height: 200px;
     background-color: #4ea0ff;
@@ -12,6 +14,8 @@ h1 {
     font-size: 80px;
     margin-bottom: 0px;
 }
+
+/*sezione nav*/
 .creatore {
     color: #11a3e3;
 }
@@ -25,14 +29,34 @@ nav {
     font-size: 30px;
 }
 
-.fototesta {
-    height: 650px;
-}
+/* sezione main*/
 
-.evidenzia {
-    background-color: yellow;
-}
 
 .sezioni {
     margin-bottom: 20px;
+}
+/*sezione immagini di testa*/
+.fototesta {
+    height: 650px;
+}
+/*sezione testo*/
+.evidenzia {
+    background-color: yellow;
+}
+/*Tabella*/
+table{
+    text-align: left;
+}
+th {
+    width: 450px;
+    color: white;
+    background-color: #20a9e5;
+}
+
+#ultimacolonnatabella {
+    width: 900px;
+}
+
+.tabrigacolorata {
+    background-color: #b1e5f2;
 }
