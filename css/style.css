@@ -15,7 +15,7 @@
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 70px;
     margin-bottom: 0px;
 }
 
@@ -26,22 +26,21 @@ h1 {
 
 nav {
     color: #777777;
-    font-size: 40px;
+    /*font-size: 40px;*/
 }
 
 #data {
-    font-size: 30px;
+    font-size: small;
 }
 
 /* sezione main*/
-
 
 .contenitore {
     margin-bottom: 20px;
 }
 /*sezione immagini di testa*/
 .fototesta {
-    height: 650px;
+    height: 550px;
 }
 /*sezione testo*/
 .evidenzia {
